@@ -1,2 +1,2 @@
-# books-database-gui
-A simple GUI made using the Tkinter library that allows one to query, add and delete entries in an mySQL database.
+# User interface for books database
+A simple user interface made using the Python Tkinter library that allows one to query, add and delete entries in an mySQL database.
